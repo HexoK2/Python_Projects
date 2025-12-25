@@ -36,4 +36,4 @@ If you have any questions, feel free to contact me via my GitHub profile.
 ---
 
 **Note**: This repository is a personal learning project. The code may not be optimized and is subject to change over time.
-Not everything is done by me (the graphical interfaces are made by an AI while I learn how to use them properly).
+Not everything is done by me (the graphical interfaces are created by AI while I learn how to use them properly and also for optimization purposes sometimes).
